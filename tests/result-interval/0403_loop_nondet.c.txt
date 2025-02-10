@@ -1,0 +1,8 @@
+0403_loop_nondet.c:5.4-6.4: [ x in [0;0] ]
+0403_loop_nondet.c:5.4-6.4: [ x in [1;1] ]
+0403_loop_nondet.c:5.4-6.4: [ x in [2;2] ]
+0403_loop_nondet.c:5.4-6.4: [ x in [3;3] ]
+0403_loop_nondet.c:5.4-6.4: [ x in [3;4] ]
+0403_loop_nondet.c:5.4-6.4: [ x in [3;5] ]
+0403_loop_nondet.c:5.4-6.4: [ x in [3;6] ]
+0403_loop_nondet.c:5.4-6.4: [ x in [3;+oo] ]

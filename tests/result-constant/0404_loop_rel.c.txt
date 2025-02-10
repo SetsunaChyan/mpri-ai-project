@@ -1,0 +1,6 @@
+0404_loop_rel.c:7.4-8.4: [ x in {0}, N in top ]
+0404_loop_rel.c:7.4-8.4: [ x in {1}, N in top ]
+0404_loop_rel.c:7.4-8.4: [ x in {2}, N in top ]
+0404_loop_rel.c:7.4-8.4: [ x in {3}, N in top ]
+0404_loop_rel.c:7.4-8.4: [ x in top, N in top ]
+0404_loop_rel.c:10.2-11.0: ERROR: assertion failure

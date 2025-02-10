@@ -1,0 +1,2 @@
+0301_assert_false.c:4.2-5.2: ERROR: assertion failure
+0301_assert_false.c:5.2-6.0: bottom

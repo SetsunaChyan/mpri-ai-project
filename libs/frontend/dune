@@ -1,0 +1,29 @@
+(ocamllex
+ (modules lexer))
+
+(menhir
+ (modules parser))
+
+(library
+ (name frontend)
+ (libraries mapext zarith apron gmp))
+
+; (rule
+;   (targets lexer.ml)
+;   (deps lexer.mll)
+;   (action (run ocamllex %{deps})))
+; (rule
+;   (targets parser.ml parser.mli)
+;   (deps parser.mly)
+;   (action (run menhir --base parser --explain --infer %{deps})))
+
+; (rule
+;  (targets
+;   ./lexer.ml
+;   ./parser.ml
+;   ./parser.mli)
+;  (action
+;     (progn
+;       (run ocamllex ./lexer.mll)
+;       (run menhir -b parser --explain --infer ./parser.mly)
+;   )))

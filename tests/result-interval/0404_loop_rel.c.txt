@@ -1,0 +1,9 @@
+0404_loop_rel.c:7.4-8.4: [ x in [0;0], N in [1;50] ]
+0404_loop_rel.c:7.4-8.4: [ x in [1;1], N in [2;50] ]
+0404_loop_rel.c:7.4-8.4: [ x in [2;2], N in [3;50] ]
+0404_loop_rel.c:7.4-8.4: [ x in [3;3], N in [4;50] ]
+0404_loop_rel.c:7.4-8.4: [ x in [3;4], N in [4;50] ]
+0404_loop_rel.c:7.4-8.4: [ x in [3;5], N in [4;50] ]
+0404_loop_rel.c:7.4-8.4: [ x in [3;6], N in [4;50] ]
+0404_loop_rel.c:7.4-8.4: [ x in [3;49], N in [4;50] ]
+0404_loop_rel.c:10.2-11.0: ERROR: assertion failure

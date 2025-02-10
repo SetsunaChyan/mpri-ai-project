@@ -1,0 +1,2 @@
+0303_assert_both.c:4.2-5.2: ERROR: assertion failure
+0303_assert_both.c:6.2-7.0: [ x in [1;10] ]

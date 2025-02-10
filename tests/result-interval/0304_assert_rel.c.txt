@@ -1,0 +1,2 @@
+0304_assert_rel.c:6.2-7.2: ERROR: assertion failure
+0304_assert_rel.c:7.2-8.0: [ x in [1;3], y in [1;3] ]

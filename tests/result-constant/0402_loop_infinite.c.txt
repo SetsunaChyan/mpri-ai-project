@@ -1,0 +1,5 @@
+0402_loop_infinite.c:5.4-6.4: [ x in {0} ]
+0402_loop_infinite.c:5.4-6.4: [ x in {-1} ]
+0402_loop_infinite.c:5.4-6.4: [ x in {-2} ]
+0402_loop_infinite.c:5.4-6.4: [ x in {-3} ]
+0402_loop_infinite.c:5.4-6.4: [ x in top ]

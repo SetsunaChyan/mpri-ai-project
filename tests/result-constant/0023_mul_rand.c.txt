@@ -1,0 +1,1 @@
+0023_mul_rand.c:4.2-5.0: [ x in top ]

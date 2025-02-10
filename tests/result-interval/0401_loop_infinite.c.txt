@@ -1,0 +1,4 @@
+0401_loop_infinite.c:5.4-6.2: [ x in [0;0] ]
+0401_loop_infinite.c:5.4-6.2: [ x in [0;0] ]
+0401_loop_infinite.c:5.4-6.2: [ x in [0;0] ]
+0401_loop_infinite.c:5.4-6.2: [ x in [0;0] ]

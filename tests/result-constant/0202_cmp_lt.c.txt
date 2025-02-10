@@ -1,0 +1,1 @@
+0202_cmp_lt.c:6.12-24: [ x in top, y in top ]
